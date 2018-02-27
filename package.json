@@ -1,5 +1,5 @@
 {
-  "name": "is-that-meme-dead",
+  "name": "itmd",
   "version": "1.0.0",
   "description": "A web app to tell you the latest dead memes",
   "author": "Oliver Cordingley <thatkidwhocodes@gmail.com>",
@@ -14,6 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "eslint-plugin-html": "^4.0.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
